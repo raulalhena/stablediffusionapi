@@ -1,2 +1,2 @@
 # stablediffusionapi
-AI image generator API
+AI image generation API
